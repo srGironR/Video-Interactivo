@@ -1,0 +1,44 @@
+.o-inicio-img{  
+    width: 100%;
+    height: 100%;   
+    filter: brightness(10%);
+    position: relative;
+    z-index: -1;
+     
+}
+.o-play{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -60rem;
+   
+    
+}
+.o-title-inicio{
+    margin-bottom: -3rem;
+    font-weight: bold;
+    font-size: 10rem;
+    color:white;
+    
+}
+.button.play {
+    width: 74px;
+    height: 74px;
+    border-style: solid;
+    border-width: 37px;
+    border-color: #202020;
+    border-width: 37px 37px 37px 37px;
+    background-color: transparent;
+    border-width: 37px 0px 37px 74px; 
+    box-sizing: border-box;
+    width: 74px;
+    height: 74px;
+    border-width: 37px 0px 37px 74px;
+    border-color: transparent transparent transparent white;
+    transition: all 0.4s;
+    cursor: pointer;
+  }
+  .button.play:hover{
+    border-color: transparent transparent transparent #202020;
+    transform: scale(1.4);
+  }

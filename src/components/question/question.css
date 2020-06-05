@@ -1,0 +1,96 @@
+.o-title-q{
+    margin-top: -50rem;
+    font-size: 5rem;
+    color:white;
+    text-align: center;
+}
+.o-question-img{
+    width: 100%;
+    height: 100%;   
+    filter: brightness(30%);
+    position: relative;
+    z-index: -1;
+}
+.o-button-q{
+    margin: 2rem 0 0 2rem;
+    width: 200px;
+    height: 97px;
+    border-radius: 35px;
+    cursor: pointer;
+    font-family: "Comfortaa";
+    font-size: 2rem;
+    font-weight: bolder;
+    transition: all 0.4s;
+}
+.o-button-q:hover{
+    background-color: lightgrey;
+    transform: scale(1.1);
+}
+.o-desc{
+    font-family: "Comfortaa";
+    font-style: normal;
+    font-size: 40px;
+    line-height: 45px;
+    text-align: center;
+}
+.o-button-r{
+    margin:0 0 0 2rem;
+    width: 15rem;
+    height: 7rem;
+    border-radius: 35px;
+    cursor: pointer;
+    font-family: "Comfortaa";
+    font-size: 1.5rem;
+    font-weight: bolder;
+    transition: all 0.4s;
+}
+.o-button-r:hover{
+    background-color: lightgrey;
+    transform: scale(1.1);
+}
+.o-button-q2{
+    margin:0 0 0 2rem;
+    width: 15rem;
+    height: 8rem;
+    border-radius: 35px;
+    cursor: pointer;
+    font-family: "Comfortaa";
+    font-size: 1.2rem;
+    font-weight: bolder;
+    transition: all 0.4s;
+}
+.o-button-q2:hover{
+    background-color: lightgrey;
+    transform: scale(1.1);
+}
+.o-button-q3{
+    margin:0 0 0 2rem;
+    width: 20rem;
+    height: 10rem;
+    border-radius: 35px;
+    cursor: pointer;
+    font-family: "Comfortaa";
+    font-size: 1.2rem;
+    font-weight: bolder;
+    transition: all 0.4s;
+}
+.o-button-q3:hover{
+    background-color: lightgrey;
+    transform: scale(1.1);
+}
+.o-desc-r{
+    font-family: "Comfortaa";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 108px;
+    text-align: center;    
+    color: #48f165;
+}
+.o-desc-w{
+    font-family: "Comfortaa";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 108px;
+    text-align: center;
+    color: #F35B3A;
+}

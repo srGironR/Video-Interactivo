@@ -1,0 +1,9 @@
+.o-vid{
+    width: 74rem;
+   
+}
+.o-vid-container{
+    background-image: url(https://hoolite.be/wp-content/uploads/2015/03/vector_island_1366x768.png);
+    display: flex;
+    justify-content: center;
+}
